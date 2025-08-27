@@ -57,9 +57,15 @@ body {
 }
 
 #header-img {
-    /*width: 50%;*/
+    width: 50%;
     margin-top: 10%;
-    height: 5%;
+    /*height: 5%;*/
+    /*aspect-ratio: 1/1;*/
+}
+
+#hackyhackhack {
+    width: 59%;
+    margin: 10%;
 }
 
 .column h2 {
